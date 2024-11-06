@@ -52,8 +52,8 @@
     {
       "group": "Get Started",
       "pages": [
-        "introductio",
-        "quickstart",
+        "introduction",
+        "quickstar",
         "development"
       ]
     },
