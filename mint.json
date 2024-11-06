@@ -57,37 +57,21 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstar",
-        "development",
-         "hehe"
+        "quickstart",
+        "development"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets",
-        "hihi"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "essentials/code"
       ]
     }
+  ],
+  "topLevelPages": [
+    "api-reference/endpoint/get",
+    "another-top-level-page"
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
