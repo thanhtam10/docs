@@ -95,7 +95,13 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    }
+    },
+    {
+      "group": "Another Test",
+      "pages": [
+        "another-test/introduction"
+      ]
+    },
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
