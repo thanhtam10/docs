@@ -105,7 +105,8 @@
     {
       "group": "Another Tab",
       "pages": [
-        "another-tab/tab1"
+        "another-tab/tab1",
+        "another-tab/tab2"
       ]
     }
   ],
