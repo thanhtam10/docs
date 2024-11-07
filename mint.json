@@ -33,6 +33,10 @@
     {
       "name": "Another Test",
       "url": "another-test" 
+    },
+        {
+      "name": "Another Tab",
+      "url": "another-tab" 
     }
   ],
   "anchors": [
@@ -96,6 +100,12 @@
       "group": "Another Test",
       "pages": [
         "another-test/introduction"
+      ]
+    },
+    {
+      "group": "Another Tab",
+      "pages": [
+        "another-tab/tab1"
       ]
     }
   ],
