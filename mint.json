@@ -30,6 +30,10 @@
       "name": "API Reference",
       "url": "api-reference"
     },
+      {
+      "name": "Another Test",
+      "url": "another-test" 
+    },
         {
       "name": "Another Tab",
       "url": "another-tab" 
